@@ -4,7 +4,7 @@ Source: Awesome - Datascience Github
 ## Introduction:
 This Dataset shows the data for one random NYC yellow taxi on a single day in 2013. It displays the information about where it operated, how much money it made, and how busy it was over 24 hours.
 ## Potential Applications and Values:
-We can estimate how much revenue is generated through taxi and also approximate the busy areas within a particular time frame. This information acan be used to estimate the traffic in a particular araea.
+We can estimate how much revenue is generated through taxi and also approximate the busy areas within a particular time frame. This information can be used to estimate the traffic in a particular area.
 # Data Science Book
 ## Title: Data Mining and Knowledge Discovery in Real Life Applications
 ## Author:Julio Ponce and Adem Karahoca
